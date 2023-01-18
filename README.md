@@ -35,3 +35,6 @@ Works perfectly on a server!<br></ul>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/os">Project: OverSimplified / ABBPBR</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/dungeons-textures">Dungeons Textures</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/story-mode-textures">Story Mode Textures</a></li><li><a href="https://modrinth.com/resourcepack/programmer-art%2B">Programmer Art+</a></li></ul></details>
+
+Made with ATLauncher!
+!(https://raw.githubusercontent.com/Fantom-Decepticon/unified-parity/8ed60f3913dcc14a189954420fcedd298ad56345/logo-named.svg)
