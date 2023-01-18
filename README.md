@@ -6,8 +6,6 @@ And later on Minecraft Legends and Minecraft Earth aswell!</p>
 
 ## Notes:
 
-**IN PRE-RELEASE 5 PUT FRESH ANIMATIONS ABOVE AVPBR.**
-
 Note mentioned in Additive that *especially* applies to this modpack aswell:
 > Experiencing UI issues? Exordium may be the culprit. While it does have its great benefits, as it is beta software, it *may* cause issues, *especially* when using mods that modify UI. When trying to fix an issue, make sure to try disabling Exordium first. 
 
@@ -36,5 +34,5 @@ Works perfectly on a server!<br></ul>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/dungeons-textures">Dungeons Textures</a></li>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/story-mode-textures">Story Mode Textures</a></li><li><a href="https://modrinth.com/resourcepack/programmer-art%2B">Programmer Art+</a></li></ul></details>
 
-Made with ATLauncher!
+Made with:
 ![ATLauncher](https://raw.githubusercontent.com/Fantom-Decepticon/unified-parity/8ed60f3913dcc14a189954420fcedd298ad56345/logo-named.svg)
