@@ -1,0 +1,13 @@
+filename = 'limitedchunks-1.20.1-3.9.jar'
+name = 'Limited Chunkloading - Chunk cleanup[Forge/Fabric]'
+side = 'both'
+
+[download]
+hash = '9432783cc137efcd9f6d8e721a6d1cf2a5b7288b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4765718
+project-id = 456640

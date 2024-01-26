@@ -1,0 +1,13 @@
+filename = 'chat_heads-0.10.30-forge-1.20.jar'
+name = 'Chat Heads'
+side = 'client'
+
+[download]
+hash = '2ddf8499073f31af667be315e5cebafd5bda3b9b47dac8cdaa6cf3dd0eb51290b1f30e09ad06d2135900e9cd840bb0981a400118650015b06b4cb9802ce75b69'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wb5oqrBJ/versions/TKVhsCBf/chat_heads-0.10.30-forge-1.20.jar'
+
+[update.modrinth]
+mod-id = 'Wb5oqrBJ'
+version = 'TKVhsCBf'

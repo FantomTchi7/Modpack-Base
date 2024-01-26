@@ -1,0 +1,13 @@
+filename = 'language-reload-1.5.10+1.20.1.jar'
+name = 'Language Reload'
+side = 'client'
+
+[download]
+hash = '4b11a35a01cf64ba04f34c94ea4f3415a6e61c39e267eeb43ad13210d97700a5fdd1f75521117e52d5fadafc51b25e27605c009333d1c9225404d257c7ae8c94'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uLbm7CG6/versions/EbPl4WIQ/language-reload-1.5.10%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'uLbm7CG6'
+version = 'EbPl4WIQ'

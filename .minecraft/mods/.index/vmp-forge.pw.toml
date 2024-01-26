@@ -1,0 +1,13 @@
+filename = 'vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar'
+name = 'Very Many Players (Forge)'
+side = 'both'
+
+[download]
+hash = '938e950f7b705b47655fbd3d60bb2e9fb9d906d43a712fa7f98b200697c58493cd1b724453f9aac4c389a7ac3c9efc3fa18189953dce4491f32ff0266fc32749'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LlSMGYzF/versions/u8RpUzay/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.101-all.jar'
+
+[update.modrinth]
+mod-id = 'LlSMGYzF'
+version = 'u8RpUzay'

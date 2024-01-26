@@ -1,0 +1,13 @@
+filename = 'BadOptimizations-1.6.3.jar'
+name = 'BadOptimizations'
+side = 'client'
+
+[download]
+hash = 'c652173c0d209f6603e65b23b249728dcb61fdf520ee1957282ef6e36b52a57a77bd83d7da131add49c060b25cb0d586d8975044eff794255c75b5b21a0fb971'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g96Z4WVZ/versions/PXrqBQZG/BadOptimizations-1.6.3.jar'
+
+[update.modrinth]
+mod-id = 'g96Z4WVZ'
+version = 'PXrqBQZG'

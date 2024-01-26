@@ -1,0 +1,13 @@
+filename = 'fastpaintings-1.20-1.2.3.jar'
+name = 'Fast Paintings'
+side = 'both'
+
+[download]
+hash = 'b2d35efbb0830a76d941d91c88eeefbd1e731f78c7ea879eff21a7427c08d516cab708516f36a17f736cb24d51b69c936f7afee943f72bf59870b0da80d2f5d4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z3TzcquW/versions/lMKLnUHm/fastpaintings-1.20-1.2.3.jar'
+
+[update.modrinth]
+mod-id = 'z3TzcquW'
+version = 'lMKLnUHm'

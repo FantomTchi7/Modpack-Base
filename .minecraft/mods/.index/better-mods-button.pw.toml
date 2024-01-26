@@ -1,0 +1,13 @@
+filename = 'BetterModsButton-v8.0.2-1.20.1-Forge.jar'
+name = 'Better Mods Button'
+side = 'client'
+
+[download]
+hash = 'a2235c03fa59f28e2b934a325d81487b6ae7783e28177a095f109c0f453fb7327c9d74739fbfe206b82d33361c0965d633689b29bd0e5367751820aadb598634'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KUZAAwdD/versions/bSoVaTgS/BetterModsButton-v8.0.2-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'KUZAAwdD'
+version = 'bSoVaTgS'
