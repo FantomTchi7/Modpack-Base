@@ -43,7 +43,7 @@ prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","mod_resources","fabric","builtin/pack_connected_beds","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip","file/Snowiest+Snow+1.19.3.zip"]
-incompatibleResourcePacks:["builtin/pack_connected_beds","file/Snowiest+Snow+1.19.3.zip"]
+incompatibleResourcePacks:["builtin/pack_connected_beds","file/Snowiest+Snow.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
