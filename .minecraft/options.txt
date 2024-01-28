@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","builtin/pack_connected_beds","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip","file/Snowiest+Snow+1.19.3.zip"]
-incompatibleResourcePacks:["builtin/pack_connected_beds","file/Snowiest+Snow.zip"]
+resourcePacks:["vanilla","mod_resources","fabric","builtin/pack_connected_beds","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip","file/Snowiest+Snow.zip"]
+incompatibleResourcePacks:["builtin/pack_connected_beds"]
 lastServer:
 lang:en_us
 soundDevice:""
