@@ -1,0 +1,14 @@
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text": "Unified Parity",
+                
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://modrinth.com/modpack/unified-parity"
+                }
+            }
+        ]
+    }
+}
