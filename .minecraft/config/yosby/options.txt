@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -106,8 +106,8 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.c
-key_key.loadToolbarActivator:key.keyboard.x
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -126,8 +126,8 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
-key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12
-key_key.camerautils.zoom:key.keyboard.z
+key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
+key_key.camerautils.zoom:key.keyboard.c
 key_key.camerautils.third_person_cam_1:key.keyboard.f6
 key_key.camerautils.third_person_cam_2:key.keyboard.f7
 key_key.camerautils.third_person_distance:key.keyboard.unknown
