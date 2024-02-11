@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","builtin/pack_connected_beds","continuity:glass_pane_culling_fix","continuity:default","file/Translations for Sodium","file/Chat Reporting Helper","file/Fast Better Grass","file/Snowiest Snow"]
+resourcePacks:["vanilla","mod_resources","fabric","builtin/pack_connected_beds","Forgery","Forgery grayscale","continuity:glass_pane_culling_fix","continuity:default","file/Translations for Sodium","file/Chat Reporting Helper","file/Fast Better Grass","file/Snowiest Snow","file/C4Music"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -118,15 +118,31 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_placebo.toggleTrails:key.keyboard.unknown
-key_placebo.toggleWings:key.keyboard.unknown
+key_[Forgery] Toggle/Hold Sprint:key.keyboard.unknown
+key_[Forgery] Toggle Stance:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
+key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
+key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
+key_placebo.toggleTrails:key.keyboard.unknown
+key_placebo.toggleWings:key.keyboard.unknown
+key_key.inventoryessentials.single_transfer:key.mouse.left:CONTROL
+key_key.inventoryessentials.bulk_transfer:key.mouse.left:SHIFT
+key_key.inventoryessentials.bulk_transfer_modifier:key.keyboard.left.control
+key_key.inventoryessentials.bulk_transfer_all:key.mouse.left
+key_key.inventoryessentials.bulk_transfer_all_modifier:key.keyboard.space
+key_key.inventoryessentials.bulk_drop:key.keyboard.q:SHIFT
+key_key.inventoryessentials.bulk_drop_modifier:key.keyboard.left.control
+key_key.inventoryessentials.screen_bulk_drop:key.mouse.left:SHIFT
+key_key.inventoryessentials.drag_transfer:key.keyboard.left.shift
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.camerautils.zoom:key.keyboard.c
 key_key.camerautils.third_person_cam_1:key.keyboard.f6
 key_key.camerautils.third_person_cam_2:key.keyboard.f7
@@ -140,8 +156,22 @@ key_key.camerautils.third_person_camera_2_settings:key.keyboard.unknown
 key_key.camerautils.third_person_settings:key.keyboard.unknown
 key_key.camerautils.zoom_settings:key.keyboard.unknown
 key_key.camerautils.zoom_animation_settings:key.keyboard.unknown
-key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
-key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
+key_key.craftingtweaks.rotate:key.keyboard.unknown
+key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
+key_key.craftingtweaks.balance:key.keyboard.unknown
+key_key.craftingtweaks.spread:key.keyboard.unknown
+key_key.craftingtweaks.clear:key.keyboard.unknown
+key_key.craftingtweaks.force_clear:key.keyboard.unknown
+key_key.craftingtweaks.compressOne:key.keyboard.k:CONTROL
+key_key.craftingtweaks.compressStack:key.keyboard.k
+key_key.craftingtweaks.compressAll:key.keyboard.k:SHIFT
+key_key.craftingtweaks.decompressOne:key.keyboard.unknown
+key_key.craftingtweaks.decompressStack:key.keyboard.unknown
+key_key.craftingtweaks.decompressAll:key.keyboard.unknown
+key_key.craftingtweaks.refill_last:key.keyboard.tab:CONTROL
+key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
+key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
