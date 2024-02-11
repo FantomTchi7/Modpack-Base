@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","builtin/pack_connected_beds","Forgery","Forgery grayscale","continuity:glass_pane_culling_fix","continuity:default","file/Translations for Sodium","file/Chat Reporting Helper","file/Fast Better Grass","file/Snowiest Snow","file/C4Music"]
+resourcePacks:["vanilla","mod_resources","fabric","builtin/pack_connected_beds","Forgery","Forgery grayscale","continuity:glass_pane_culling_fix","continuity:default","file/Translations for Sodium","file/Chat Reporting Helper","file/Fast Better Grass","file/Snowiest Snow","file/C4Music","file/C4Nether","file/C4Discs"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
