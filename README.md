@@ -1,4 +1,22 @@
+# QoL & Performance
+
+QoL & Performance focused modpack, built on NeoForge. Will be used as an [Unified Parity](https://modrinth.com/modpack/unified-parity) base.
+
+Inspired by [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) & [Additive](https://modrinth.com/modpack/additive)!
+
+> [!TIP]
+> You can check out [SO's wiki](https://github.com/HyperSoop/Simply-Optimized/wiki/Post%E2%80%90install) for some things you can do to get the most performance out of your game.
+
+## Features:
+
+- Very optimized, performant and lightweight!
+- Has **all** of the Optifine features!
+- Is built on NeoForge!
+- Supports both Forge & *(most of)* Fabric mods!
+- Is updated regularly!
+
 ## Mods and resource packs used:
+
 <details>
 <summary>Mods</summary>
 
