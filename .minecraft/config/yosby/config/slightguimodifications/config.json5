@@ -2,7 +2,7 @@
 	"fluidAdvancements": true,
 	"fluidStatusEffects": false,
 	// Whether we should unlimit the hard 60 fps limit placed on the title screen.
-	"unlimitTitleScreenFps": true,
+	"unlimitTitleScreenFps": false,
 	"openingAnimation": {
 		"fluidChatOpening": false,
 		"fluidOpenSlideFromBottom": false,
