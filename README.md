@@ -68,7 +68,6 @@ Inspired by [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optim
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) by Fuzs
 - [Faster Random](https://modrinth.com/mod/RfFxanNh) by AnOpenSauceDev
 - [Fast Suite](https://www.curseforge.com/projects/475117) by Shadows_of_Fire
-- [Limited Chunkloading](https://www.curseforge.com/projects/456640)
 - [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
 - [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge) by thedarkcolour
 - [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) by FX - PR0CESS
