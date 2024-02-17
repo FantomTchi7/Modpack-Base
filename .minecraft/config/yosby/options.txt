@@ -120,15 +120,12 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_[Forgery] Toggle/Hold Sprint:key.keyboard.unknown
 key_[Forgery] Toggle Stance:key.keyboard.unknown
+key_placebo.toggleTrails:key.keyboard.unknown
+key_placebo.toggleWings:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
-key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
-key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
-key_placebo.toggleTrails:key.keyboard.unknown
-key_placebo.toggleWings:key.keyboard.unknown
 key_key.inventoryessentials.single_transfer:key.mouse.left:CONTROL
 key_key.inventoryessentials.bulk_transfer:key.mouse.left:SHIFT
 key_key.inventoryessentials.bulk_transfer_modifier:key.keyboard.left.control
@@ -141,8 +138,6 @@ key_key.inventoryessentials.drag_transfer:key.keyboard.left.shift
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
-key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
-key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.camerautils.zoom:key.keyboard.c
 key_key.camerautils.third_person_cam_1:key.keyboard.f6
 key_key.camerautils.third_person_cam_2:key.keyboard.f7
@@ -156,7 +151,12 @@ key_key.camerautils.third_person_camera_2_settings:key.keyboard.unknown
 key_key.camerautils.third_person_settings:key.keyboard.unknown
 key_key.camerautils.zoom_settings:key.keyboard.unknown
 key_key.camerautils.zoom_animation_settings:key.keyboard.unknown
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
+key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
+key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
+key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
