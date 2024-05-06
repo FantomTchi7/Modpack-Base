@@ -1,0 +1,130 @@
+Thank you for 15 million downloads! 
+
+Recommended with OptiFine HD U I3 or newer; issues may occur in older versions: https://optifine.net/downloads
+Entity Model Features: https://modrinth.com/mod/entity-model-features
+
+68 / 79 mobs complete
+
+Endermite:
+- Similar to Silverfish
+- Idle
+- Crawling
+- Hurt
+- Attack
+- Randomized sizes
+
+Shulker:
+- Idle
+- Hurt
+- Animated eyes
+
+Goat:
+- Idle
+- Walk
+- Run
+- Swim
+- Jump
+- Ram
+- Animated eyes
+- Novelty animations
+
+Allay:
+- Idle
+- Fly/move direction
+- Customised holding item
+- Dance
+- Hurt
+- Animated eyes
+- Novelty animation
+
+Bee:
+- Idle
+- Fly
+- Walk
+- Hurt
+- Angry
+- Spawn/exit nest
+- Pollenate
+- Stingless
+- Animated eyes
+
+Sniffer:
+- Idle
+- Swim
+- Jump
+- Hurt
+- Floppy ears and fur
+- Novelty animations
+
+Optifine Parts:
+- Added Support for most parts for Allay, Shulker, Goat, Bee and Sniffer
+- Added Support for Enderman jaw
+
+Changes:
+- Overhauled creeper
+- Overhauled skeleton and stray
+- Overhauled enderman
+- Improved silverfish
+- Tweaked zombie
+- Tweaked sheep
+- Tweaked pig
+- Tweaked chicken
+- Tweaked tadpole
+- Tweaked spider and cave spider
+- Tweaked pillager
+- Tweaked cat
+- Tweaked frog
+- Updated wolf sitting, lie down and tail animations
+- Added hurt animation to mobs:
+	- skeleton, stray, zombie, husk, drowned, zombie villager, creeper, vex, enderman, witch
+- Added pig animation when riding
+- Added eating animation to pig, cow and mooshroom
+- Improved eating animation for sheep and chicken
+- Added eyes to creeper head model
+- Added turtle digging animation
+- Added horse head shaking animation
+- Turtle eyes close when resting
+- Smoother novelty animations for many mobs
+- Added creeper eyes texture
+- Updated desert type villager texture
+- Removed plains type villager texture
+- Updated wolf textures
+- Updated witch swim animation
+- Cleaned up phantom
+- Cleaned up husk
+- Cleaned up drowned
+- Cleaned up zombie villager
+- Other various adjustments
+ 
+Fixes:
+- Fixed piglin head entity model
+- Fixed horses head sometimes clipping through its neck
+- Fixed baby zombie legs
+- Fixed slime eyes UV
+- Flipped cow legs UV
+- Flipped enderman legs UV
+- Fixed variable errors for ravager, piglin brute, guardian, elder guardian
+- Fixed witch drinking potion while swimming
+- Fixed cat legs when trying to sprint in a boat
+- Fixed parrot legs when is_sitting is true while flying
+- Other various fixes
+
+Release changes:
+- Added wolf armor
+- Flipped goat legs texture UVs to match vanilla
+- Edited goat texture to mirror legs
+- Made sniffer coat more floppy
+- Made goat coat more floppy
+- Fixed baby goat head shaking when running
+- Fixed creeper walk anim playing when swimming
+- Fixed wolf legs position when riding
+- Rotated wolf back legs when sleeping
+- Fixed baby wolf head when sitting
+- Tweaked stray head pose
+- Fixed skeleton head_yaw when riding
+- More phantom cleanup
+- Fixed cat sitting position
+- Tweaked slime
+- Tweaked horse ears
+- Decreased frequency of horse head shaking animation when ridden
+- Increased frequency of eating animations for pig, cow & mooshroom

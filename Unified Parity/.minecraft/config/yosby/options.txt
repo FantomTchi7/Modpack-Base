@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Moonlight Mods Dynamic Assets","mod_resources","fabric","builtin/pack_connected_beds","Forgery","Forgery grayscale","continuity:glass_pane_culling_fix","continuity:default","file/Translations for Sodium","file/Chat Reporting Helper","file/Fast Better Grass","file/C4Music"]
+resourcePacks:["vanilla","Moonlight Mods Dynamic Assets","mod_resources","fabric","builtin/pack_connected_beds","Forgery","Forgery grayscale","continuity:glass_pane_culling_fix","continuity:default","file/Translations for Sodium","file/Chat Reporting Helper","file/Fast Better Grass","file/C4Music","file/Fresh Animations","file/Fresh Moves"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -129,6 +129,8 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
+key_keybinds.bettercombat.feint:key.keyboard.unknown
+key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
 key_key.inventoryessentials.single_transfer:key.mouse.left:CONTROL
@@ -140,13 +142,13 @@ key_key.inventoryessentials.bulk_drop:key.keyboard.q:SHIFT
 key_key.inventoryessentials.bulk_drop_modifier:key.keyboard.left.control
 key_key.inventoryessentials.screen_bulk_drop:key.mouse.left:SHIFT
 key_key.inventoryessentials.drag_transfer:key.keyboard.left.shift
-key_nqt.keybinds.menu:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
+key_key.mcda.firetrail.toggle:key.keyboard.unknown
 key_key.camerautils.zoom:key.keyboard.c
-key_key.camerautils.third_person_cam_1:key.keyboard.f6
-key_key.camerautils.third_person_cam_2:key.keyboard.f7
+key_key.camerautils.third_person_cam_1:key.keyboard.f7
+key_key.camerautils.third_person_cam_2:key.keyboard.f8
 key_key.camerautils.third_person_distance:key.keyboard.unknown
 key_key.camerautils.detach_camera:key.keyboard.unknown
 key_key.camerautils.hide_player:key.keyboard.unknown
@@ -181,6 +183,7 @@ key_key.jade.toggle_liquid:key.keyboard.keypad.2
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details:key.keyboard.left.shift
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.firstperson.toggle:key.keyboard.f6
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
