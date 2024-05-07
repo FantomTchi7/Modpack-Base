@@ -1,0 +1,9 @@
+{
+  "configVersion": 2,
+  "windMode": "NONE",
+  "capeStyle": "SMOOTH",
+  "capeMovement": "DUNGEONS",
+  "gravity": 25,
+  "heightMultiplier": 6,
+  "straveMultiplier": 2
+}
