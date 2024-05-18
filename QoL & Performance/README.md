@@ -1,21 +1,19 @@
-# QoL & Performance
-
-QoL & Performance focused modpack, built on NeoForge. Will be used as an [Unified Parity](https://modrinth.com/modpack/unified-parity) base.
-
-Inspired by [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) & [Additive](https://modrinth.com/modpack/additive)!
-
-> [!TIP]
-> You can check out [SO's wiki](https://github.com/HyperSoop/Simply-Optimized/wiki/Post%E2%80%90install) for some things you can do to get the most performance out of your game.
-
-## Features:
-
-- Very optimized, performant and lightweight!
+![Minecraft: QoL & Performance](https://raw.githubusercontent.com/FantomTchi7/Modpacks/main/QoL%20%26%20Performance/minecraft_title.png)
+## Focuses on utilities, support, optimization, and user experience. Built on NeoForge, basis for Unified Parity.
+### Features:
+- Very optimized, performant, and lightweight!
 - Has **all** of the Optifine features!
 - Is built on NeoForge!
 - Supports both Forge & *(most of)* Fabric mods!
-- Is updated regularly!
+- Is updated *somewhat* regularly!
 
-## Mods and resource packs used:
+### Notes:
+- The modpack is inspired by [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) & [Additive](https://modrinth.com/modpack/additive)!
+- As mentioned on [Modrinth](https://modrinth.com/mod/faster-random) Faster Random requires a JVM that [fully supports Java 17's new `RandomGenerator` system](https://gist.github.com/AnOpenSauceDev/36719f1ed2770fa0094d6be618b137e3), **and implementations of the [LXM generators alongside it](https://openjdk.org/jeps/356)**. (example: [GraalVM](https://www.graalvm.org/)). **Having an unsupported JVM will cause crashes,** and will require you to use Faster Random 1.6.0. If your JVM doesn't support this, chances are it's not a good JVM.
+- On the topic of good JVM's, a good place to check them out & their best performance arguments is [brucethemoose's guide to JVM's arguments & benchmarks](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks).
+- You can also check out [SO's wiki](https://github.com/HyperSoop/Simply-Optimized/wiki/Post%E2%80%90install) for some things you can do to get the most performance out of your game.
+
+## Resources used:
 
 <details>
 <summary>Mods</summary>
@@ -146,6 +144,7 @@ Inspired by [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optim
 - [C4Music](https://modrinth.com/resourcepack/c4music) by MopsTMC
 </details>
 
-Made with love from Estonia, and also with:
+From Estonia with ❤\
+Made with:
 
 ![Prism Launcher](https://raw.githubusercontent.com/PrismLauncher/PrismLauncher/develop/program_info/org.prismlauncher.PrismLauncher.logo-darkmode.svg)
