@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Moonlight Mods Dynamic Assets","mod_resources","fabric","builtin/pack_connected_beds","Forgery","Forgery grayscale","continuity:glass_pane_culling_fix","continuity:default","file/Translations for Sodium","file/Chat Reporting Helper","file/Fast Better Grass","file/C4Music"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","Forgery","Forgery grayscale","Moonlight Mods Dynamic Assets","fabric","visualoverhaul:rounddiscs","visualoverhaul:nobrewingbottles","visualoverhaul:fancyfurnace","visualoverhaul:coloredwaterbucket","continuity:glass_pane_culling_fix","continuity:default","betterbeds:connectedbeds","file/Translations for Sodium","file/Chat Reporting Helper","file/Fast Better Grass","file/C4Music","file/Fresh Animations","file/Fresh Moves"]
+incompatibleResourcePacks:["visualoverhaul:rounddiscs","visualoverhaul:nobrewingbottles","visualoverhaul:fancyfurnace","visualoverhaul:coloredwaterbucket"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -121,6 +121,7 @@ key_key.hotbar.9:key.keyboard.9
 key_[Forgery] Toggle/Hold Sprint:key.keyboard.unknown
 key_[Forgery] Toggle Stance:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
+key_autothirdperson.toggle:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
@@ -129,8 +130,18 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
+key_key.toggleVisualItemContents:key.keyboard.unknown
+key_key.toggleSelectedItemTooltips:key.keyboard.unknown
+key_key.toggleCarriedItemTooltips:key.keyboard.unknown
+key_key.cycleLeft:key.keyboard.g
+key_key.cycleRight:key.keyboard.h
+key_keybinds.bettercombat.feint:key.keyboard.unknown
+key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
+key_key.weaponmaster_ydm.opengui:key.keyboard.unknown
 key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
+key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
+key_keys.reblured.toggle:key.keyboard.f10
 key_key.inventoryessentials.single_transfer:key.mouse.left:CONTROL
 key_key.inventoryessentials.bulk_transfer:key.mouse.left:SHIFT
 key_key.inventoryessentials.bulk_transfer_modifier:key.keyboard.left.control
@@ -140,13 +151,17 @@ key_key.inventoryessentials.bulk_drop:key.keyboard.q:SHIFT
 key_key.inventoryessentials.bulk_drop_modifier:key.keyboard.left.control
 key_key.inventoryessentials.screen_bulk_drop:key.mouse.left:SHIFT
 key_key.inventoryessentials.drag_transfer:key.keyboard.left.shift
-key_nqt.keybinds.menu:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
+key_key.mcda.firetrail.toggle:key.keyboard.unknown
+key_dsurround.text.keybind.modConfigurationMenu:key.keyboard.unknown
+key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown
+key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
+key_key.bcbui.areaselectioninput:key.keyboard.semicolon
 key_key.camerautils.zoom:key.keyboard.c
-key_key.camerautils.third_person_cam_1:key.keyboard.f6
-key_key.camerautils.third_person_cam_2:key.keyboard.f7
+key_key.camerautils.third_person_cam_1:key.keyboard.f7
+key_key.camerautils.third_person_cam_2:key.keyboard.f8
 key_key.camerautils.third_person_distance:key.keyboard.unknown
 key_key.camerautils.detach_camera:key.keyboard.unknown
 key_key.camerautils.hide_player:key.keyboard.unknown
@@ -158,8 +173,7 @@ key_key.camerautils.third_person_settings:key.keyboard.unknown
 key_key.camerautils.zoom_settings:key.keyboard.unknown
 key_key.camerautils.zoom_animation_settings:key.keyboard.unknown
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
-key_brute_force_rendering_culling.key.config:key.keyboard.unknown
-key_brute_force_rendering_culling.key.debug:key.keyboard.unknown
+key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
@@ -181,6 +195,7 @@ key_key.jade.toggle_liquid:key.keyboard.keypad.2
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details:key.keyboard.left.shift
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.firstperson.toggle:key.keyboard.f6
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
