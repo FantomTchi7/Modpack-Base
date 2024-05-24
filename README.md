@@ -1,7 +1,7 @@
 # FantomTchi7's Modpacks
 ## A repository for version control & for storing FantomTchi7's modpacks, which are:
 ---
-![Minecraft: QoL & Performance](https://raw.githubusercontent.com/FantomTchi7/Modpacks/main/QoL%20%26%20Performance/minecraft_title.png)
+![Minecraft: QoL & Performance](https://github.com/FantomTchi7/Modpacks/blob/main/Branding/QoL%20&%20Performance%20minecraft_title.png?raw=true)
 ## Focuses on utilities, support, optimization, and user experience.
 ### Features:
 - Very optimized, performant, and lightweight!
@@ -10,7 +10,7 @@
 - Supports both Forge & *(most of)* Fabric mods!
 - Is updated *somewhat* regularly!
 ---
-![Minecraft: Unified Parity](https://raw.githubusercontent.com/FantomTchi7/Modpacks/main/Unified%20Parity/minecraft_title.png)
+![Minecraft: Unified Parity](https://github.com/FantomTchi7/Modpacks/blob/main/Branding/Unified%20Parity%20minecraft_title.png?raw=true)
 ## Focuses on achieving parity & consistency between Minecraft Bedrock Edition, Minecraft Dungeons, Minecraft Story Mode, and Minecraft Official Trailers / Promo Art. [WIP]
 ### Features (not all of them are added yet):
 - Features Bedrock Edition UI!
@@ -19,7 +19,7 @@
 - All the mobs are animated (including the players), just like in the trailers!
 - A selection of resource packs & shaders to make your game feel like one of the games!
 ---
-![Minecraft: Unified Parity++](https://raw.githubusercontent.com/FantomTchi7/Modpacks/main/Unified%20Parity%2B%2B/minecraft_title.png)
+![Minecraft: Unified Parity++](https://github.com/FantomTchi7/Modpacks/blob/main/Branding/Unified%20Parity++%20minecraft_title.png?raw=true)
 ## Focuses on multiplayer, fun, and RPG aspects, and will have mods that might not capture the Minecraft feel. [WIP]
 ### Features (not all of them are added yet):
 - Introduces a plethora of new blocks & equipment to discover and use!

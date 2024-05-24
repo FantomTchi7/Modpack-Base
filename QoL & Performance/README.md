@@ -1,4 +1,4 @@
-![Minecraft: QoL & Performance](https://raw.githubusercontent.com/FantomTchi7/Modpacks/main/QoL%20%26%20Performance/minecraft_title.png)
+![Minecraft: QoL & Performance](https://github.com/FantomTchi7/Modpacks/blob/main/Branding/QoL%20&%20Performance%20minecraft_title.png?raw=true)
 ## Focuses on utilities, support, optimization, and user experience. Built on NeoForge, basis for Unified Parity.
 ### Features:
 - Very optimized, performant, and lightweight!

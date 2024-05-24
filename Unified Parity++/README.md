@@ -1,4 +1,4 @@
-![Minecraft: Unified Parity++](https://raw.githubusercontent.com/FantomTchi7/Modpacks/main/Unified%20Parity%2B%2B/minecraft_title.png)
+![Minecraft: Unified Parity++](https://github.com/FantomTchi7/Modpacks/blob/main/Branding/Unified%20Parity++%20minecraft_title.png?raw=true)
 ## Focuses on multiplayer, fun, and RPG aspects, and will have mods that might not capture the Minecraft feel. Built on NeoForge. [WIP]
 ### Features:
 - Very optimized, performant, and lightweight!
